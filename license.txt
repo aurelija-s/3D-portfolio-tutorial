@@ -1,0 +1,11 @@
+Model Information:
+* title:	Succulent haworthiopsis limifolia
+* source:	https://sketchfab.com/3d-models/succulent-haworthiopsis-limifolia-42951ee6b4134c49959469469b03e7fe
+* author:	skvyrla (https://sketchfab.com/skvyrla)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Succulent haworthiopsis limifolia" (https://sketchfab.com/3d-models/succulent-haworthiopsis-limifolia-42951ee6b4134c49959469469b03e7fe) by skvyrla (https://sketchfab.com/skvyrla) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
