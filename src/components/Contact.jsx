@@ -8,8 +8,7 @@ import { SectionWrapper } from '../hoc';
 import { slideIn } from '../utils/motion';
 
 // aC_XwOvdFDUJCIr_E
-// 
-// 
+
 
 
 const Contact = () => {
